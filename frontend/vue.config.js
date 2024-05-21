@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/rick-morty-app/'
+    publicPath: '/rick-morty/'
 }
